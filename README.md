@@ -1,6 +1,4 @@
-# Codex 开发工作流
-
-归档日期为 2026-11-13。归档包含四个 Skill 的完整原始文件和一份仓库根目录 `AGENTS.md` 模板。
+# Vibecoding 开发工作流
 
 ## 四个 Skill
 
